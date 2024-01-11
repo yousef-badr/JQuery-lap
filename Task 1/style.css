@@ -1,0 +1,21 @@
+#slider {
+   width: 400px;
+   height: 300px;
+   overflow: hidden;
+   position: relative;
+}
+  
+#slider img {
+   width: 100%;
+   height: 100%;
+   position: absolute;
+   top: 0;
+   left: 0;
+}
+
+button{
+   background-color: #04AA6D;
+   border-radius: 4px;
+   width: 100px;
+   height: 50px;
+}

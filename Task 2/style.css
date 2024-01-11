@@ -1,0 +1,57 @@
+img{
+    width: 30%;
+    height: 300px;
+}
+
+.paragraph-container {
+    display: flex;
+}
+
+.parallel-paragraph{
+    flex: 1;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid aqua;
+}
+
+.parallel-h2{
+    flex: 1;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+.parallel-img{
+    flex: 1;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+.container{
+    display: flex;
+}
+
+.hidden{
+    display: none;
+}
+
+.h2-container{
+    display: flex;
+}
+
+.paragraph1{
+    width: 450px;
+}
+
+.paragraph2{
+    width: 450px;
+}
+
+.paragraph3{
+    width: 450px;
+}
+
+.cls1{
+    display: flex;   
+}
